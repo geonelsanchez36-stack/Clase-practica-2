@@ -1,5 +1,4 @@
-# Clase-practica-2
-# Clase-practica-2
+
 # Clase Práctica 2 — Listas Enlazadas en Java
 
 Este proyecto lo hice para dar respuesta a la **Clase Práctica 2** de Estructura de Datos. La idea era implementar desde cero una **lista enlazada simple** en Java y resolver los tres ejercicios que nos pidieron:
